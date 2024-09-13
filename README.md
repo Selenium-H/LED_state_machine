@@ -18,7 +18,7 @@ You compile the `led_ct.c` file using `gcc` and run the executable to test it. A
 1. Clone the repo.
 2. open terminal in the project root directory.
 3. Type `gcc led_ct.c -o led_ct.out` and hit `enter` key.
-4. Type `./a.out`
+4. Type `./led_ct.out`
 
 # Contributions
 
